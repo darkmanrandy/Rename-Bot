@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @Pari_1997
 
 import asyncio
 from helpers.database.access_db import db
